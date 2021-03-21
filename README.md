@@ -7,7 +7,7 @@ Data Sources used:
 3. National Association of Realtors
 
 # Author
-Clara Bickley
+Clara Heinz<br>
 Credit to Naysan Saran (@naysansaran) for the upsert_mogrify and connection functions, modified to fit the needs of this project.
 
 # License
